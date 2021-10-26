@@ -1,0 +1,7 @@
+requests
+base64
+tkinter
+ImageGrab
+pymouse
+pykeyboard
+pyautogui
