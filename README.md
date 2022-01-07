@@ -8,6 +8,6 @@ A simple script for watch lckj coures automatically
   - A camera phone.
   
 ## Show results
-![result](https://static01.imgkr.com/temp/0de63c875a804d3896c67a6cae276468.png)
+[![7plubq.png](https://s4.ax1x.com/2022/01/07/7plubq.png)](https://imgtu.com/i/7plubq)
 ## Summary
   - The realization of the function depends on the mouse simulation, I admit that this is not an elegant approach
